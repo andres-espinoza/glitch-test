@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.clink.app",
+                 "sha256_cert_fingerprints": ["33:85:05:0C:75:8A:EF:73:DB:0D:16:A0:73:CD:D6:5A:66:F0:C7:48:2A:62:1B:C6:8F:E1:F2:4A:4C:40:09:52"] }
+  }]
